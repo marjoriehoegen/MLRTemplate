@@ -9,7 +9,7 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Introdução
@@ -23,7 +23,7 @@ Essa página apresenta um resumo dos projetos realizado na disciplina **"Anális
 * Título: Análise Exploratória de Dados
 
 ### Descrição
-Esse projeto tem como objetivo realizar uma análise exploratória dos dados storms do package dplyr
+Esse projeto tem como objetivo realizar uma análise exploratória dos dados **storms** do package *dplyr*
 
 ### Relatório do Projeto
 
