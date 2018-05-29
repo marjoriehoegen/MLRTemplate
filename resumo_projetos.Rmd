@@ -1,7 +1,7 @@
 ---
 title: "Resumo dos projetos"
-author: "Nome do Aluno"
-date: "5 de abril de 2018"
+author: "Marjorie Hoegen"
+date: "29 de maio de 2018"
 output: 
   html_document:
     toc: true
@@ -21,25 +21,23 @@ Essa página apresenta um resumo dos projetos realizado na disciplina **"Anális
 ## Projeto 1
 
 * Título: Análise Exploratória de Dados
-* Data:
 
 ### Descrição
-Esse projeto tem como objetivo realizar uma análise exploratória no dados do .....
+Esse projeto tem como objetivo realizar uma análise exploratória dos dados storms do package dplyr
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://github.com/Efsilvaa>) *Pages*: [Projeto 1](projetos/projeto1.html)
+Link no [meu Github](<https://github.com/marjoriehoegen/projeto1_eda>) *Pages*: [Projeto 1](projetos/projeto1.html)
 
 ***
 
 ## Projeto 2
 
 * Título: Regressão linear
-* Data:
 
 ### Descrição
-Esse projeto tem como objetivo realizar a previsão de ... usando um modelo de regressão linear .....
+Esse projeto tem como objetivo realizar a previsão do preço de imóveis usando um modelo de regressão linear gerando um gráfico de resíduos
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://github.com/Efsilvaa>) *Pages*: [Projeto 2](projetos/projeto1.html)
+Link no [meu Github](<>) *Pages*: [Projeto 2](projetos/projeto1.html)
