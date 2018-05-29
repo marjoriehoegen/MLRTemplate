@@ -27,7 +27,7 @@ Esse projeto tem como objetivo realizar uma análise exploratória dos dados **s
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://github.com/marjoriehoegen/projeto1_eda>) *Pages*: [Projeto 1](docs/projetos/projeto1.html)
+Link no [meu Github](<https://github.com/marjoriehoegen/projeto1_eda>) *Pages*: [Projeto 1](projetos/projeto1.html)
 
 ***
 
