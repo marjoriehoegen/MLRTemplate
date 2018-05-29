@@ -40,4 +40,4 @@ Esse projeto tem como objetivo realizar a previsão do preço de imóveis usando
 
 ### Relatório do Projeto
 
-Link no [meu Github](<>) *Pages*: [Projeto 2](projetos/projeto1.html)
+Link no [meu Github](<>) *Pages*: [Projeto 2]()
