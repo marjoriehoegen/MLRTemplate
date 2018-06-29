@@ -1,7 +1,7 @@
 ---
 title: "Resumo dos projetos"
 author: "Marjorie Hoegen"
-date: "29 de maio de 2018"
+date: "28 de junho de 2018"
 output: 
   html_document:
     toc: true
@@ -27,7 +27,7 @@ Esse projeto tem como objetivo realizar uma análise exploratória dos dados **s
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://github.com/marjoriehoegen/projeto1_eda>) *Pages*: [Projeto 1](projetos/projeto1.html)
+Link no [meu Github](<https://github.com/marjoriehoegen) *Pages*: [Projeto 1](projetos/relatorio1.html)
 
 ***
 
@@ -40,4 +40,37 @@ Esse projeto tem como objetivo realizar a previsão do preço de imóveis usando
 
 ### Relatório do Projeto
 
-Link no [meu Github](<>) *Pages*: [Projeto 2]()
+Link no [meu Github](<https://github.com/marjoriehoegen>) *Pages*: [Projeto 2](projetos/relatorio2.html)
+
+## Projeto 3
+
+* Título: Estudo de caso BlueSky
+
+### Descrição
+O objetivo do projeto é definir o nível de proteção ideal de proteção de assentos de tarifa cheia de um companhia aérea.
+
+### Relatório do Projeto
+
+Link no [meu Github](<https://github.com/marjoriehoegen>) *Pages*: [Projeto 3](projetos/relatorio3.html)
+
+## Projeto 4
+
+* Título: Decision Tree
+
+### Descrição
+O objetivo desse projeto é fazer a previsão do nascimento de recém-nascidos abaixo do peso usando um modelo de árvore de decisão.
+
+### Relatório do Projeto
+
+Link no [meu Github](<https://github.com/marjoriehoegen>) *Pages*: [Projeto 4](projetos/relatorio4.html)
+
+## Projeto 5
+
+* Título: Regressão Logística
+
+### Descrição
+O objetivo desse projeto é fazer a previsão do nascimento de recém-nascidos abaixo do peso usando regressão logística.
+
+### Relatório do Projeto
+
+Link no [meu Github](<https://github.com/marjoriehoegen>) *Pages*: [Projeto 5](projetos/relatorio5.html)
